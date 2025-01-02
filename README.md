@@ -26,3 +26,8 @@ Using the AWS Management Console:
 6. Verify Bucket Setup
  * Refresh the S3 console to see your newly created bucket and the uploaded files.
  * Test access permissions to ensure that users or applications can access the bucket and its contents as expected.
+
+   
+![Screenshot 2025-01-02 104210](https://github.com/user-attachments/assets/da55a684-7196-46e9-9378-a591856147cf)
+
+![Screenshot 2025-01-02 104811](https://github.com/user-attachments/assets/e6ddefe9-fbc2-4d94-b95e-af005b7fd2c0)
