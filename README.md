@@ -1,3 +1,12 @@
+COMPANY : CODTECH IT SOLUTIONS 
+NAME : ADITHI ASHOK SHETTY
+INTERN ID: CTO8FZT
+DOMAIN: CLOUD COMPUTING 
+DURATION : 4 WEEKS
+MENTOR : NEELA SANTHOSH
+
+
+My First Task 
 Certainly, let's create a cloud storage bucket in AWS S3.
 1. Prerequisites:
  * An active AWS account.
